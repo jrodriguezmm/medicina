@@ -1,0 +1,27 @@
+Alegreya
+Alegreya SC
+Alegreya Sans
+Alegreya Sans SC
+Arimo
+Cardo
+Caudex
+Cousine
+Didact Gothic
+EB Garamond
+Fira Mono
+Jura
+M PLUS 1p
+M PLUS Rounded 1c
+Noto Sans
+Noto Serif
+Open Sans
+Open Sans Condensed
+Roboto
+Roboto Condensed
+Roboto Mono
+Roboto Slab
+Source Sans Pro
+Tinos
+Ubuntu
+Ubuntu Condensed
+Ubuntu Mono

@@ -1,0 +1,65 @@
+Alegreya
+Alegreya SC
+Alegreya Sans
+Alegreya Sans SC
+Alice
+Andika
+Arimo
+Arsenal
+Comfortaa
+Cormorant
+Cormorant Garamond
+Cormorant Infant
+Cormorant SC
+Cormorant Unicase
+Cousine
+Cuprum
+Didact Gothic
+EB Garamond
+Fira Mono
+Forum
+Gabriela
+IBM Plex Mono
+IBM Plex Sans
+IBM Plex Serif
+Istok Web
+Jura
+Kurale
+Lobster
+Lora
+M PLUS 1p
+M PLUS Rounded 1c
+Merriweather
+Montserrat
+Montserrat Alternates
+Noto Sans
+Noto Serif
+Old Standard TT
+Open Sans
+Open Sans Condensed
+Oranienbaum
+PT Mono
+PT Sans
+PT Sans Caption
+PT Sans Narrow
+PT Serif
+PT Serif Caption
+Pangolin
+Philosopher
+Play
+Podkova
+Prata
+Press Start 2P
+Roboto
+Roboto Condensed
+Roboto Mono
+Roboto Slab
+Scada
+Source Sans Pro
+Tinos
+Ubuntu
+Ubuntu Condensed
+Ubuntu Mono
+Vollkorn
+Vollkorn SC
+Yeseva One

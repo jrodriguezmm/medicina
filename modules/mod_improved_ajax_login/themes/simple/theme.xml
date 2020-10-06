@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<params>
+		<param name="themeskin" type="offlajnskin" default="steelblue" size="5" label="Theme skin" description="">
+			<steelblue>
+				<popupcomb>F2F2F2|*|18|*|39ADD2|*|9|*|1</popupcomb>
+				<blackoutcomb>40</blackoutcomb>
+				<titlefont>{"Text":{"lineheight":"30px","type":"Latin","subset":"Latin","family":"Montserrat","color":"39add2","size":"20||px","align":"left","afont":"Helvetica||1","bold":"0","textdecor":"300"}}</titlefont>
+				<btncomb>39add2|*|49bde2</btncomb>
+				<btnpadcomb>8|*|24|*|8|*|24</btnpadcomb>
+				<btnfont>{"Text":{"lineheight":"22px","type":"Latin","family":"Montserrat","subset":"Latin","size":"14||px","color":"ffffff","tshadow":"1||px|*|1||px|*|0|*|00000000|*|0|*|","afont":"Helvetica||1","bold":"0","textdecor":"400"}}</btnfont>
+				<txtcomb>ffffff|*|ffffff|*|40||px|*|d8d8d8|*|0|*|</txtcomb>
+				<txtpadcomb>9|*|9|*|9|*|9</txtpadcomb>
+				<textfont>{"Text":{"lineheight":"normal","type":"Latin","subset":"Latin","family":"Roboto","size":"17||px","color":"a1a1a1","afont":"Helvetica||1","underline":"0","textdecor":"300"},"Link":{"color":"1685d7","underline":"0"},"Hover":{"color":"39add2","underline":"0"}}</textfont>
+				<smalltext>13||px</smalltext>
+				<errorcomb>e75a4b|*|ffffff</errorcomb>
+				<hintcomb>ffffff|*|5e5e5e</hintcomb>
+			</steelblue>
+			<green>
+				<popupcomb>F2F2F2|*|18|*|5F9C1D|*|9|*|1</popupcomb>
+				<btncomb>5F9C1D|*|5F9C1D</btncomb>
+				<titlefont>{"Text":{"color":"5F9C1D"}}</titlefont>
+				<textfont>{"Text":{"color":"a1a1a1"},"Link":{"color":"5F9C1D"},"Hover":{"color":"5F9C1D"}}</textfont>
+			</green>
+			<grey>
+				<popupcomb>F2F2F2|*|18|*|605F5F|*|9|*|1</popupcomb>
+				<btncomb>605F5F|*|000000</btncomb>
+				<titlefont>{"Text":{"color":"605F5F"}}</titlefont>
+				<textfont>{"Text":{"color":"a1a1a1"},"Link":{"color":"5F9C1D"},"Hover":{"color":"605F5F"}}</textfont>
+			</grey>
+			<orange>
+				<popupcomb>F2F2F2|*|18|*|FDAF5D|*|9|*|1</popupcomb>
+				<btncomb>FDAF5D|*|F49A46</btncomb>
+				<titlefont>{"Text":{"color":"FDAF5D"}}</titlefont>
+				<textfont>{"Text":{"color":"000000"},"Link":{"color":"5F9C1D"},"Hover":{"color":"FDAF5D"}}</textfont>
+			</orange>
+			<red>
+				<popupcomb>F2F2F2|*|18|*|E85364|*|9|*|1</popupcomb>
+				<btncomb>E85364|*|D6515E</btncomb>
+				<titlefont>{"Text":{"color":"E85364"}}</titlefont>
+				<textfont>{"Text":{"color":"A1A1A1"},"Link":{"color":"5F9C1D"},"Hover":{"color":"E85364"}}</textfont>
+			</red>
+		</param>
+		<param name="fontskin" type="offlajnskin" default="carme" size="5" label="Font skin" description="">
+			<inherit>
+				<titlefont>{"Text":{"lineheight":"30px","type":"0","size":"22||px","align":"center","afont":"inherit||1","bold":"0"}}</titlefont>
+				<btnfont>{"Text":{"lineheight":"24px","type":"0","size":"15||px","textdecor":"700","afont":"inherit||1","bold":"0"}}</btnfont>
+				<textfont>{"Text":{"lineheight":"20px","type":"0","size":"15||px","afont":"inherit||1","underline":"0"},"Link":{"underline":"0"},"Hover":{"underline":"0"}}</textfont>
+				<smalltext>14||px</smalltext>
+			</inherit>
+			<arial>
+				<titlefont>{"Text":{"lineheight":"30px","type":"0","size":"22||px","align":"center","afont":"Arial||1","bold":"0"}}</titlefont>
+				<btnfont>{"Text":{"lineheight":"24px","type":"0","size":"15||px","afont":"Arial||1","textdecor":"700","bold":"0"}}</btnfont>
+				<textfont>{"Text":{"lineheight":"20px","type":"0","size":"15||px","afont":"Arial||1","underline":"0"},"Link":{"underline":"0"},"Hover":{"underline":"0"}}</textfont>
+				<smalltext>14||px</smalltext>
+			</arial>
+			<opensans>
+				<titlefont>{"Text":{"lineheight":"30px","type":"Latin","subset":"Latin","family":"Open Sans","size":"22||px","align":"center","afont":"Helvetica||1","bold":"0","textdecor":"400"}}</titlefont>
+				<btnfont>{"Text":{"lineheight":"24px","type":"Latin","family":"Open Sans","subset":"Latin","size":"15||px","afont":"Helvetica||1","bold":"0","textdecor":"400"}}</btnfont>
+				<textfont>{"Text":{"lineheight":"20px","type":"Latin","subset":"Latin","family":"Open Sans","size":"15||px","afont":"Helvetica||1","underline":"0","textdecor":"400"},"Link":{"underline":"0"},"Hover":{"underline":"0"}}</textfont>
+				<smalltext>14||px</smalltext>
+			</opensans>
+			<montserrat>
+				<titlefont>{"Text":{"lineheight":"30px","type":"LatinExtended","subset":"Latin","family":"Montserrat","size":"22||px","align":"center","afont":"Helvetica||1","bold":"0","textdecor":"300"}}</titlefont>
+				<btnfont>{"Text":{"lineheight":"24px","type":"LatinExtended","family":"Montserrat","subset":"Latin","size":"15||px","afont":"Helvetica||1","bold":"0","textdecor":"400"}}</btnfont>
+				<textfont>{"Text":{"lineheight":"20px","type":"LatinExtended","subset":"Latin","family":"Montserrat","size":"15||px","afont":"Helvetica||1","underline":"0","textdecor":"300"},"Link":{"underline":"0"},"Hover":{"underline":"0"}}</textfont>
+				<smalltext>13||px</smalltext>
+			</montserrat>
+			<Lato>
+				<titlefont>{"Text":{"lineheight":"30px","type":"LatinExtended","subset":"Latin","family":"Lato","size":"22||px","align":"center","afont":"Helvetica||1","bold":"0","textdecor":"700"}}</titlefont>
+				<btnfont>{"Text":{"lineheight":"24px","type":"LatinExtended","family":"Lato","subset":"Latin","size":"16||px","afont":"Helvetica||1","bold":"0","textdecor":"400"}}</btnfont>
+				<textfont>{"Text":{"lineheight":"20px","type":"LatinExtended","subset":"Latin","family":"Lato","size":"15||px","afont":"Helvetica||1","underline":"0","textdecor":"400"},"Link":{"underline":"0"},"Hover":{"underline":"0"}}</textfont>
+				<smalltext>14||px</smalltext>
+			</Lato>
+			<Roboto>
+				<titlefont>{"Text":{"lineheight":"30px","type":"LatinExtended","subset":"Latin","family":"Roboto","size":"22||px","align":"center","afont":"Helvetica||1","bold":"0","textdecor":"400"}}</titlefont>
+				<btnfont>{"Text":{"lineheight":"24px","type":"LatinExtended","family":"Roboto","subset":"Latin","size":"16||px","afont":"Helvetica||1","bold":"0","textdecor":"400"}}</btnfont>
+				<textfont>{"Text":{"lineheight":"20px","type":"LatinExtended","subset":"Latin","family":"Robot","size":"16||px","afont":"Helvetica||1","underline":"0","textdecor":"400"},"Link":{"underline":"0"},"Hover":{"underline":"0"}}</textfont>
+				<smalltext>14||px</smalltext>
+			</Roboto>
+		</param>
+		<param type="offlajncombine" name="popupcomb" default="F2F2F2|*|18|*|39ADD2|*|9|*|1" label="Popup">
+			<param alpha="0" type="offlajncolor" size="7" label="BACKGROUND" />
+			<param type="offlajntext" size="1" label="padding"><unit>px</unit></param>
+			<param type="offlajnclear"/>
+			<param alpha="0" type="offlajncolor" size="7" label="BORDER_COLOR" />
+			<param type="offlajntext" size="1" label="Border width"><unit>px</unit></param>
+			<param type="offlajnclear"/>
+			<param type="offlajnlist" label="ANIMATION_TYPE">
+				<option value="0">RANDOM</option>
+				<option value="1">FADE_IN_AND_SCALE_UP</option>
+				<option value="2">SLIDE_FROM_THE_RIGHT</option>
+				<option value="4">NEWSPAPER</option>
+				<option value="5">FALL</option>
+				<option value="6">SIDE_FALL</option>
+				<option value="8">3D_FLIP_HORIZONTAL</option>
+				<option value="9">3D_FLIP_VERTICAL</option>
+				<option value="11">SUPER_SCALED</option>
+				<option value="13">3D slit</option>
+				<option value="14">3D_ROTATE_FROM_BOTTOM</option>
+				<option value="15">3D_ROTATE_FROM_LEFT</option>
+				<option value="17">SUPER_SLIDE_IN_FROM_BOTTOM</option>
+				<option value="18">SUPER_SLIDE_IN_FROM_RIGHT</option>
+				<option value="19">BLUR</option>
+				<option value="20">GREYSCALE</option>
+			</param>
+		</param>
+		<param type="offlajncombine" name="blackoutcomb" default="40" label="BLACKOUT">
+			<param type="offlajntext" size="2" label="OPACITY" description=""><unit>%</unit></param>
+		</param>
+		<param name="logo" type="offlajnimagemanager" folder="/images/logo/" default="" label="Login logo" />
+		<param name="titlefont" type="offlajnfont" tabs="Text" alpha="1" default='{"Text":{"lineheight":"30px","type":"Latin","subset":"Latin","family":"Montserrat","color":"39add2","size":"20||px","align":"left","afont":"Helvetica||1","bold":"0","textdecor":"300"}}' label="Header font" />
+		<param type="offlajncombine" name="btncomb" default="39add2|*|49bde2" label="Button">
+			<param alpha="0" type="offlajncolor" size="7" label="Background"/>
+			<param alpha="0" type="offlajncolor" size="7" label="Background : hover"/>
+		</param>
+		<param type="offlajncombine" name="btnpadcomb" default="8|*|24|*|8|*|24" label="Button padding">
+			<param type="offlajntext" size="1" label="Top"><unit>px</unit></param>
+			<param type="offlajntext" size="1" label="Left"><unit>px</unit></param>
+			<param type="offlajntext" size="1" label="Bottom"><unit>px</unit></param>
+			<param type="offlajntext" size="1" label="Right"><unit>px</unit></param>
+		</param>
+		<param name="btnfont" type="offlajnfont" tabs="Text" alpha="1" default='{"Text":{"lineheight":"22px","type":"Latin","family":"Montserrat","subset":"Latin","size":"14||px","color":"ffffff","tshadow":"1||px|*|1||px|*|0|*|00000000|*|0|*|","afont":"Helvetica||1","bold":"0","textdecor":"400"}}' label="BUTTON_FONT" />
+		<param type="offlajncombine" name="txtcomb" default="ffffff|*|ffffff" label="Input field">
+			<param alpha="0" type="offlajncolor" size="7" label="Background" />
+			<param alpha="0" type="offlajncolor" size="7" label="Background : focus"/>
+		</param>
+		<param type="offlajncombine" name="txtpadcomb" default="9|*|9|*|9|*|9" label="Input padding">
+			<param type="offlajntext" size="1" label="Top"><unit>px</unit></param>
+			<param type="offlajntext" size="1" label="Left"><unit>px</unit></param>
+			<param type="offlajntext" size="1" label="Bottom"><unit>px</unit></param>
+			<param type="offlajntext" size="1" label="Right"><unit>px</unit></param>
+		</param>
+		<param name="textfont" tabs="Text|Hover" type="offlajnfont" alpha="1" default='{"Text":{"lineheight":"normal","type":"Latin","subset":"Latin","family":"Roboto","size":"17||px","color":"a1a1a1","afont":"Helvetica||1","underline":"0","textdecor":"300"},"Link":{"color":"1685d7","underline":"0"},"Hover":{"color":"39add2","underline":"0"}}' label="TEXT_FONT" description="TEXT_FONT_DESC" />
+		<param name="smalltext" type="offlajntext" default="13" size="2" label="SMALL_TEXT_SIZE" description="SMALL_TEXT_SIZE_DESC"><unit>px</unit></param>
+		<param name="errorcomb" type="offlajncombine" default="e75a4b|*|ffffff" label="Error message">
+			<param alpha="0" type="offlajncolor" size="7" label="Background" />
+			<param alpha="0" type="offlajncolor" size="7" label="Text color" />
+		</param>
+		<param name="hintcomb" type="offlajncombine" default="ffffff|*|5e5e5e" label="Hint message">
+			<param alpha="0" type="offlajncolor" size="7" label="Background" />
+			<param alpha="0" type="offlajncolor" size="7" label="Text color" />
+		</param>
+	</params>
+</theme>

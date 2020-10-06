@@ -1,0 +1,36 @@
+Advent Pro
+Alegreya
+Alegreya SC
+Alegreya Sans
+Alegreya Sans SC
+Anonymous Pro
+Arimo
+Cardo
+Caudex
+Comfortaa
+Cousine
+Didact Gothic
+EB Garamond
+Fira Mono
+GFS Didot
+GFS Neohellenic
+Jura
+M PLUS 1p
+M PLUS Rounded 1c
+Noto Sans
+Noto Serif
+Nova Mono
+Open Sans
+Open Sans Condensed
+Play
+Press Start 2P
+Roboto
+Roboto Condensed
+Roboto Mono
+Roboto Slab
+Source Sans Pro
+Tinos
+Ubuntu
+Ubuntu Condensed
+Ubuntu Mono
+Vollkorn

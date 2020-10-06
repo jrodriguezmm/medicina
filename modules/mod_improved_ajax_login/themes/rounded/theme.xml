@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<params>
+		<param name="themeskin" type="offlajnskin" default="steelblue" size="5" label="Theme skin" description="">
+			<default>
+				<popupcomb>#FFFFFF|*|18|*|#FFFFFF|*|0|*|1|*|15</popupcomb>
+				<blackoutcomb>40</blackoutcomb>
+				<titlefont>{"Text":{"lineheight":"30px","type":"LatinExtended","subset":"Latin","family":"Baloo Bhai","color":"3d494f","size":"30||px","align":"center","afont":"Helvetica||1","bold":"0","textdecor":"400"}}</titlefont>
+				<btncomb>#4CB906|*|#52C707|*|25</btncomb>
+				<btnpadcomb>8|*|24|*|8|*|24</btnpadcomb>
+				<btnfont>{"Text":{"lineheight":"24px","type":"LatinExtended","family":"Baloo Bhai","subset":"Latin","size":"17||px","color":"ffffff","tshadow":"1||px|*|1||px|*|0|*|00000000|*|0|*|","afont":"Helvetica||1","bold":"0","textdecor":"400"}}</btnfont>
+				<txtcomb>#F7F8FA|*|#F7F8FA|*|#d4dce1|*|#d4dce1|*|25</txtcomb>
+				<txtpadcomb>9|*|22|*|9|*|32</txtpadcomb>
+				<textfont>{"Text":{"lineheight":"20px","type":"LatinExtended","subset":"Latin","family":"Varela Round","size":"16||px","color":"8f9294","afont":"Helvetica||1","underline":"0","textdecor":"400"},"Link":{"color":"1685d7","underline":"0"},"Hover":{"color":"39add2","underline":"0"}}</textfont>
+				<smalltext>13||px</smalltext>
+				<errorcomb>#f30f43|*|#ffffff</errorcomb>
+				<hintcomb>#ffffff|*|#5e5e5e</hintcomb>
+				<socialbg>#f7f8fa</socialbg>
+				<logocomb>1|*|100|*|100</logocomb>
+				<popupbg></popupbg>
+				<logo>/modules/mod_improved_ajax_login/themes/rounded/images/logo/user-image.png</logo>
+			</default>
+			<blue>
+				<popupcomb>#FFFFFF|*|18|*|#FFFFFF|*|0|*|1|*|15</popupcomb>
+				<blackoutcomb>40</blackoutcomb>
+				<titlefont>{"Text":{"color":"3d494f"}}</titlefont>
+				<btncomb>#3392ED|*|#3599F8|*|25</btncomb>
+				<btnfont>{"Text":{"color":"ffffff"}}</btnfont>
+				<txtcomb>#F7F8FA|*|#F7F8FA|*|#d4dce1|*|#d4dce1|*|25</txtcomb>
+				<textfont>{"Text":{"color":"8f9294"},"Link":{"color":"1685d7"},"Hover":{"color":"39add2"}}</textfont>
+				<socialbg>#f7f8fa</socialbg>
+				<logocomb>1|*|100|*|100</logocomb>
+				<popupbg></popupbg>
+				<logo>/modules/mod_improved_ajax_login/themes/rounded/images/logo/user-image.png</logo>
+			</blue>
+			<yellow>
+				<popupcomb>#FFFFFF|*|18|*|#FFFFFF|*|0|*|1|*|15</popupcomb>
+				<blackoutcomb>40</blackoutcomb>
+				<titlefont>{"Text":{"color":"3d494f"}}</titlefont>
+				<btncomb>#F8C000|*|#FFC500|*|25</btncomb>
+				<btnfont>{"Text":{"color":"ffffff"}}</btnfont>
+				<txtcomb>#F7F8FA|*|#F7F8FA|*|#d4dce1|*|#d4dce1|*|25</txtcomb>
+				<textfont>{"Text":{"color":"8f9294"},"Link":{"color":"1685d7"},"Hover":{"color":"39add2"}}</textfont>
+				<socialbg>#f7f8fa</socialbg>
+				<logocomb>1|*|100|*|100</logocomb>
+				<popupbg></popupbg>
+				<logo>/modules/mod_improved_ajax_login/themes/rounded/images/logo/user-image.png</logo>
+			</yellow>
+			<red>
+				<popupcomb>#FFFFFF|*|18|*|#FFFFFF|*|0|*|1|*|15</popupcomb>
+				<blackoutcomb>40</blackoutcomb>
+				<titlefont>{"Text":{"color":"3d494f"}}</titlefont>
+				<btncomb>#F40F42|*|#FE1045|*|25</btncomb>
+				<btnfont>{"Text":{"color":"ffffff"}}</btnfont>
+				<txtcomb>#F7F8FA|*|#F7F8FA|*|#d4dce1|*|#d4dce1|*|25</txtcomb>
+				<textfont>"color":"8f9294"},"Link":{"color":"1685d7"},"Hover":{"color":"39add2"}}</textfont>
+				<socialbg>#f7f8fa</socialbg>
+				<logocomb>1|*|100|*|100</logocomb>
+				<popupbg></popupbg>
+				<logo>/modules/mod_improved_ajax_login/themes/rounded/images/logo/user-image.png</logo>
+			</red>
+			<mountain>
+				<popupcomb>rgba(0, 0, 0, 0.50)|*|18|*|#ffffff|*|0|*|1|*|15</popupcomb>
+				<blackoutcomb>75</blackoutcomb>
+				<titlefont>{"Text":{"color":"FFFFFF"}}</titlefont>
+				<btncomb>#8B69FB|*|#976ef9|*|25</btncomb>
+				<txtcomb>rgba(0, 0, 0, 0.35)|*|rgba(0, 0, 0, 0.65)|*|rgba(255, 255, 255, 0.2)|*|#rgba(255, 255, 255, 0.2)|*|20</txtcomb>
+				<btnfont>{"Text":{"color":"ffffff"}}</btnfont>
+				<textfont>{"Text":{"color":"C6C6C6"},"Link":{"color":"1685d7"},"Hover":{"color":"B9B9B9"}}</textfont>
+				<socialbg>rgba(0,0,0,0.5)</socialbg>
+				<logocomb>1|*|130|*|100</logocomb>
+				<popupbg>/modules/mod_improved_ajax_login/themes/rounded/images/background/mountains.jpg</popupbg>
+				<bgposition>left</bgposition>
+				<logo>/modules/mod_improved_ajax_login/themes/rounded/images/logo/whitemountains-logo.png</logo>
+			</mountain>
+			<beach>
+				<popupcomb>rgba(0, 0, 0, 0.10)|*|18|*|#ffffff|*|0|*|1|*|15</popupcomb>
+				<blackoutcomb>75</blackoutcomb>
+				<titlefont>{"Text":{"color":"FFFFFF"}}</titlefont>
+				<btncomb>#3392ED|*|#3599F8|*|25</btncomb>
+				<txtcomb>rgba(0, 0, 0, 0.30)|*|rgba(0, 0, 0, 0.60)|*|rgba(255, 255, 255, 0.2)|*|#rgba(255, 255, 255, 0.2)|*|20</txtcomb>
+				<btnfont>{"Text":{"color":"ffffff"}}</btnfont>
+				<textfont>{"Text":{"color":"D1D1D1"},"Link":{"color":"1685d7"},"Hover":{"color":"B9B9B9"}}</textfont>
+				<socialbg>rgba(0,0,0,0.5)</socialbg>
+				<logocomb>1|*|90|*|140</logocomb>
+				<popupbg>/modules/mod_improved_ajax_login/themes/rounded/images/background/beach-bg.jpg</popupbg>
+				<bgposition>left</bgposition>
+				<logo>/modules/mod_improved_ajax_login/themes/rounded/images/logo/beach-hotel-logo.png</logo>
+			</beach>
+			<forest>
+				<popupcomb>rgba(0, 0, 0, 0.10)|*|18|*|#ffffff|*|0|*|1|*|15</popupcomb>
+				<blackoutcomb>75</blackoutcomb>
+				<titlefont>{"Text":{"color":"FFFFFF"}}</titlefont>
+				<btncomb>#4CB906|*|#52C707|*|25</btncomb>
+				<txtcomb>rgba(0, 0, 0, 0.30)|*|rgba(0, 0, 0, 0.60)|*|rgba(255, 255, 255, 0.2)|*|#rgba(255, 255, 255, 0.2)|*|20</txtcomb>
+				<btnfont>{"Text":{"color":"ffffff"}}</btnfont>
+				<textfont>{"Text":{"color":"D1D1D1"},"Link":{"color":"1685d7"},"Hover":{"color":"B9B9B9"}}</textfont>
+				<socialbg>rgba(0,0,0,0.5)</socialbg>
+				<logocomb>1|*|182|*|169</logocomb>
+				<popupbg>/modules/mod_improved_ajax_login/themes/rounded/images/background/rail-bg.jpg</popupbg>
+				<bgposition>center</bgposition>
+				<logo>/modules/mod_improved_ajax_login/themes/rounded/images/logo/woods-logo.png</logo>
+			</forest>
+			<city>
+				<popupcomb>rgba(0, 0, 0, 0.30)|*|18|*|#ffffff|*|0|*|1|*|15</popupcomb>
+				<blackoutcomb>75</blackoutcomb>
+				<titlefont>{"Text":{"color":"FFFFFF"}}</titlefont>
+				<btncomb>#3392ED|*|#3599F8|*|25</btncomb>
+				<txtcomb>rgba(0, 0, 0, 0.30)|*|rgba(0, 0, 0, 0.60)|*|rgba(255, 255, 255, 0.2)|*|#rgba(255, 255, 255, 0.2)|*|20</txtcomb>
+				<btnfont>{"Text":{"color":"ffffff"}}</btnfont>
+				<textfont>{"Text":{"color":"D1D1D1"},"Link":{"color":"1685d7"},"Hover":{"color":"B9B9B9"}}</textfont>
+				<socialbg>rgba(0,0,0,0.5)</socialbg>
+				<logocomb>1|*|164|*|135</logocomb>
+				<popupbg>/modules/mod_improved_ajax_login/themes/rounded/images/background/city-bg.jpg</popupbg>
+				<bgposition>center</bgposition>
+				<logo>/modules/mod_improved_ajax_login/themes/rounded/images/logo/city-logo.png</logo>
+			</city>
+		</param>
+		<param name="fontskin" type="offlajnskin" default="carme" size="5" label="Font skin" description="">
+			<inherit>
+				<titlefont>{"Text":{"lineheight":"30px","type":"0","size":"22||px","align":"center","afont":"inherit||1","bold":"0"}}</titlefont>
+				<btnfont>{"Text":{"lineheight":"24px","type":"0","size":"15||px","textdecor":"700","afont":"inherit||1","bold":"0"}}</btnfont>
+				<textfont>{"Text":{"lineheight":"20px","type":"0","size":"15||px","afont":"inherit||1","underline":"0"},"Link":{"underline":"0"},"Hover":{"underline":"0"}}</textfont>
+				<smalltext>14||px</smalltext>
+			</inherit>
+			<arial>
+				<titlefont>{"Text":{"lineheight":"30px","type":"0","size":"22||px","align":"center","afont":"Arial||1","bold":"0"}}</titlefont>
+				<btnfont>{"Text":{"lineheight":"24px","type":"0","size":"15||px","afont":"Arial||1","textdecor":"700","bold":"0"}}</btnfont>
+				<textfont>{"Text":{"lineheight":"20px","type":"0","size":"15||px","afont":"Arial||1","underline":"0"},"Link":{"underline":"0"},"Hover":{"underline":"0"}}</textfont>
+				<smalltext>14||px</smalltext>
+			</arial>
+			<opensans>
+				<titlefont>{"Text":{"lineheight":"30px","type":"Latin","subset":"Latin","family":"Open Sans","size":"22||px","align":"center","afont":"Helvetica||1","bold":"0","textdecor":"400"}}</titlefont>
+				<btnfont>{"Text":{"lineheight":"24px","type":"Latin","family":"Open Sans","subset":"Latin","size":"15||px","afont":"Helvetica||1","bold":"0","textdecor":"400"}}</btnfont>
+				<textfont>{"Text":{"lineheight":"20px","type":"Latin","subset":"Latin","family":"Open Sans","size":"15||px","afont":"Helvetica||1","underline":"0","textdecor":"400"},"Link":{"underline":"0"},"Hover":{"underline":"0"}}</textfont>
+				<smalltext>14||px</smalltext>
+			</opensans>
+			<baloobhai>
+				<titlefont>{"Text":{"lineheight":"30px","type":"LatinExtended","subset":"Latin","family":"Baloo Bhai","size":"30||px","align":"center","afont":"Helvetica||1","bold":"0","textdecor":"400"}}</titlefont>
+				<btnfont>{"Text":{"lineheight":"24px","type":"LatinExtended","family":"Baloo Bhai","subset":"Latin","size":"17||px","afont":"Helvetica||1","bold":"0","textdecor":"400"}}</btnfont>
+				<textfont>{"Text":{"lineheight":"20px","type":"LatinExtended","subset":"Latin","family":"Varela Round","size":"16||px","afont":"Helvetica||1","underline":"0","textdecor":"400"},"Link":{"underline":"0"},"Hover":{"underline":"0"}}</textfont>
+				<smalltext>13||px</smalltext>
+			</baloobhai>
+			<montserrat>
+				<titlefont>{"Text":{"lineheight":"26px","type":"LatinExtended","subset":"Latin","family":"Montserrat","size":"26||px","align":"center","afont":"Helvetica||1","bold":"0","textdecor":"700"}}</titlefont>
+				<btnfont>{"Text":{"lineheight":"24px","type":"LatinExtended","family":"Montserrat","subset":"Latin","size":"15||px","afont":"Helvetica||1","bold":"0","textdecor":"400"}}</btnfont>
+				<textfont>{"Text":{"lineheight":"20px","type":"LatinExtended","subset":"Latin","family":"Montserrat","size":"15||px","afont":"Helvetica||1","underline":"0","textdecor":"400"},"Link":{"underline":"0"},"Hover":{"underline":"0"}}</textfont>
+				<smalltext>13||px</smalltext>
+			</montserrat>
+			<Lato>
+				<titlefont>{"Text":{"lineheight":"28px","type":"LatinExtended","subset":"Latin","family":"Lato","size":"28||px","align":"center","afont":"Helvetica||1","bold":"0","textdecor":"700"}}</titlefont>
+				<btnfont>{"Text":{"lineheight":"24px","type":"LatinExtended","family":"Lato","subset":"Latin","size":"16||px","afont":"Helvetica||1","bold":"0","textdecor":"400"}}</btnfont>
+				<textfont>{"Text":{"lineheight":"20px","type":"LatinExtended","subset":"Latin","family":"Lato","size":"15||px","afont":"Helvetica||1","underline":"0","textdecor":"400"},"Link":{"underline":"0"},"Hover":{"underline":"0"}}</textfont>
+				<smalltext>14||px</smalltext>
+			</Lato>
+			<Roboto>
+				<titlefont>{"Text":{"lineheight":"26px","type":"LatinExtended","subset":"Latin","family":"Roboto","size":"26||px","align":"center","afont":"Helvetica||1","bold":"0","textdecor":"400"}}</titlefont>
+				<btnfont>{"Text":{"lineheight":"24px","type":"LatinExtended","family":"Roboto","subset":"Latin","size":"16||px","afont":"Helvetica||1","bold":"0","textdecor":"400"}}</btnfont>
+				<textfont>{"Text":{"lineheight":"20px","type":"LatinExtended","subset":"Latin","family":"Robot","size":"16||px","afont":"Helvetica||1","underline":"0","textdecor":"400"},"Link":{"underline":"0"},"Hover":{"underline":"0"}}</textfont>
+				<smalltext>14||px</smalltext>
+			</Roboto>
+		</param>
+		<param type="offlajncombine" name="popupcomb" default="#FFFFFF|*|18|*|#FFFFFF|*|0|*|1|*|15" label="Popup">
+			<param alpha="1" default="#ffffff" description="The background color of the login form" label="BACKGROUND" type="offlajnminicolor"/>
+			<param type="offlajntext" size="1" label="padding"><unit>px</unit></param>
+			<param type="offlajnclear"/>
+			<param alpha="0" label="BORDER_COLOR" default="#393ADD2" type="offlajnminicolor"/>
+			<param type="offlajntext" size="1" label="Border width"><unit>px</unit></param>
+			<param type="offlajnclear"/>
+			<param type="offlajnlist" label="ANIMATION_TYPE">
+				<option value="0">RANDOM</option>
+				<option value="1">FADE_IN_AND_SCALE_UP</option>
+				<option value="2">SLIDE_FROM_THE_RIGHT</option>
+				<option value="4">NEWSPAPER</option>
+				<option value="5">FALL</option>
+				<option value="6">SIDE_FALL</option>
+				<option value="8">3D_FLIP_HORIZONTAL</option>
+				<option value="9">3D_FLIP_VERTICAL</option>
+				<option value="11">SUPER_SCALED</option>
+				<option value="13">3D slit</option>
+				<option value="14">3D_ROTATE_FROM_BOTTOM</option>
+				<option value="15">3D_ROTATE_FROM_LEFT</option>
+				<option value="17">SUPER_SLIDE_IN_FROM_BOTTOM</option>
+				<option value="18">SUPER_SLIDE_IN_FROM_RIGHT</option>
+				<option value="19">BLUR</option>
+				<option value="20">GREYSCALE</option>
+			</param>
+			<param type="offlajntext" size="1" label="Border-radius"><unit>px</unit></param>
+		</param>
+		<param type="offlajncombine" name="blackoutcomb" default="40" label="BLACKOUT">
+			<param type="offlajntext" size="2" label="OPACITY" description=""><unit>%</unit></param>
+		</param>
+		<param name="popupbg" type="offlajnimagemanager" folder="/images/background/" default="" label="Background image" />
+		<param name="bgposition" type="offlajnlist" label="Background position">
+			<option value="center">Center</option>
+			<option value="left">Left</option>
+			<option value="right">Right</option>
+			<option value="top">Top</option>
+			<option value="bottom">Bottom</option>
+		</param>
+		<param name="logo" type="offlajnimagemanager" folder="/images/logo/" default="" label="Login logo" />
+		<param type="offlajncombine" name="logocomb" default="1|*|100|*|100" label="Logo settings">
+			<param type="offlajnradio" default="1" label="Logo sizing">
+				<option value="0">Cover</option>
+				<option value="1">Contain</option>
+			</param>
+			<param type="offlajnclear"/>
+			<param type="offlajntext" size="2" label="Width"><unit>px</unit></param>
+			<param type="offlajntext" size="2" label="Height"><unit>px</unit></param>
+		</param>
+		<param name="titlefont" type="offlajnfont" tabs="Text" alpha="1" default='{"Text":{"lineheight":"30px","type":"LatinExtended","subset":"Latin","family":"Baloo Bhai","color":"3d494f","size":"30||px","align":"center","afont":"Helvetica||1","bold":"0","textdecor":"400"}}' label="Header font" />
+		<param type="offlajncombine" name="btncomb" default="#4CB906|*|#52C707|*|25" label="Button">
+			<param alpha="0" label="Background" type="offlajnminicolor"/>
+			<param alpha="0" label="Background : hover" type="offlajnminicolor"/>
+			<param type="offlajnclear"/>
+			<param alpha="0" type="offlajntext" size="2" label="Border radius"><unit>px</unit></param>
+		</param>
+		<param type="offlajncombine" name="btnpadcomb" default="8|*|24|*|8|*|24" label="Button padding">
+			<param type="offlajntext" size="1" label="Top"><unit>px</unit></param>
+			<param type="offlajntext" size="1" label="Left"><unit>px</unit></param>
+			<param type="offlajntext" size="1" label="Bottom"><unit>px</unit></param>
+			<param type="offlajntext" size="1" label="Right"><unit>px</unit></param>
+		</param>
+		<param name="btnfont" type="offlajnfont" tabs="Text" alpha="1" default='{"Text":{"lineheight":"24px","type":"LatinExtended","family":"Baloo Bhai","subset":"Latin","size":"17||px","color":"ffffff","tshadow":"1||px|*|1||px|*|0|*|00000000|*|0|*|","afont":"Helvetica||1","bold":"0","textdecor":"400"}}' label="BUTTON_FONT" />
+		<param type="offlajncombine" name="txtcomb" default="#F7F8FA|*|#F7F8FA|*|#d4dce1|*|#d4dce1|*|25" label="Input field">
+			<param alpha="1" label="Background" type="offlajnminicolor"/>
+			<param alpha="1" label="Background : focus" type="offlajnminicolor"/>
+			<param type="offlajnclear"/>
+			<param alpha="1" type="offlajnminicolor" label="Border color"/>
+			<param alpha="1" type="offlajnminicolor" label="Border color : focus"/>
+			<param type="offlajnclear"/>
+			<param alpha="0" type="offlajntext" size="2" label="Border radius"><unit>px</unit></param>
+		</param>
+		<param type="offlajncombine" name="txtpadcomb" default="9|*|22|*|9|*|32" label="Input padding">
+			<param type="offlajntext" size="1" label="Top"><unit>px</unit></param>
+			<param type="offlajntext" size="1" label="Left"><unit>px</unit></param>
+			<param type="offlajntext" size="1" label="Bottom"><unit>px</unit></param>
+			<param type="offlajntext" size="1" label="Right"><unit>px</unit></param>
+		</param>
+		<param name="textfont" tabs="Text|Hover" type="offlajnfont" alpha="1" default='{"Text":{"lineheight":"20px","type":"LatinExtended","subset":"Latin","family":"Varela Round","size":"16||px","color":"8f9294","afont":"Helvetica||1","underline":"0","textdecor":"400"},"Link":{"color":"1685d7","underline":"0"},"Hover":{"color":"39add2","underline":"0"}}' label="TEXT_FONT" description="TEXT_FONT_DESC" />
+		<param name="smalltext" type="offlajntext" default="14" size="2" label="SMALL_TEXT_SIZE" description="SMALL_TEXT_SIZE_DESC"><unit>px</unit></param>
+		<param name="socialbg" alpha="1" type="offlajnminicolor" default="#f7f8fa" label="Social container background color" />
+		<param name="errorcomb" type="offlajncombine" default="#f30f43|*|#ffffff" label="Error message">
+			<param alpha="0" type="offlajnminicolor" size="7" label="Background" />
+			<param alpha="0" type="offlajnminicolor" size="7" label="Text color" />
+		</param>
+		<param name="hintcomb" type="offlajncombine" default="#ffffff|*|5e5e5e" label="Hint message">
+			<param alpha="0" type="offlajnminicolor" size="7" label="Background" />
+			<param alpha="0" type="offlajnminicolor" size="7" label="Text color" />
+		</param>
+	</params>
+</theme>

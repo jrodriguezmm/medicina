@@ -1,0 +1,133 @@
+Alegreya
+Alegreya SC
+Alegreya Sans
+Alegreya Sans SC
+Alfa Slab One
+Amatic SC
+Andika
+Anton
+Archivo
+Arima Madurai
+Arimo
+Arsenal
+Asap
+Asap Condensed
+Athiti
+Baloo
+Baloo Bhai
+Baloo Bhaijaan
+Baloo Bhaina
+Baloo Chettan
+Baloo Da
+Baloo Paaji
+Baloo Tamma
+Baloo Tammudu
+Baloo Thambi
+Bangers
+Bevan
+Bungee
+Bungee Hairline
+Bungee Inline
+Bungee Outline
+Bungee Shade
+Cabin
+Cabin Condensed
+Chonburi
+Coiny
+Comfortaa
+Cormorant
+Cormorant Garamond
+Cormorant Infant
+Cormorant SC
+Cormorant Unicase
+Cormorant Upright
+Cousine
+Cuprum
+Dancing Script
+David Libre
+EB Garamond
+Encode Sans
+Encode Sans Condensed
+Encode Sans Expanded
+Encode Sans Semi Condensed
+Encode Sans Semi Expanded
+Exo
+Farsan
+Faustina
+Francois One
+IBM Plex Mono
+IBM Plex Sans
+IBM Plex Sans Condensed
+IBM Plex Serif
+Inconsolata
+Itim
+Josefin Sans
+Judson
+Jura
+Kanit
+Lalezar
+Lemonada
+Lobster
+Lora
+M PLUS 1p
+M PLUS Rounded 1c
+Maitree
+Manuale
+Markazi Text
+Maven Pro
+Merriweather
+Mitr
+Montserrat
+Montserrat Alternates
+Muli
+Noticia Text
+Noto Sans
+Noto Serif
+Nunito
+Nunito Sans
+Old Standard TT
+Open Sans
+Open Sans Condensed
+Oswald
+Pacifico
+Pangolin
+Patrick Hand
+Patrick Hand SC
+Pattaya
+Paytone One
+Philosopher
+Play
+Playfair Display
+Playfair Display SC
+Podkova
+Prata
+Pridi
+Prompt
+Quicksand
+Roboto
+Roboto Condensed
+Roboto Mono
+Roboto Slab
+Rokkitt
+Saira
+Saira Condensed
+Saira Extra Condensed
+Saira Semi Condensed
+Sawarabi Gothic
+Sedgwick Ave
+Sedgwick Ave Display
+Sigmar One
+Source Sans Pro
+Space Mono
+Spectral
+Spectral SC
+Sriracha
+Taviraj
+Tinos
+Trirong
+VT323
+Varela Round
+Vollkorn
+Vollkorn SC
+Yanone Kaffeesatz
+Yeseva One

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="plugin" version="2.5" method="upgrade" group="content">
+    <name>POWr Shortcodes</name>
+    <author>POWr.io</author>
+    <creationDate>Aug 2014</creationDate>
+    <copyright>Copyright (©) 2016 POWr. All rights reserved.</copyright>
+    <authorEmail>info@powr.io</authorEmail>
+    <authorUrl>https://powr.io</authorUrl>
+    <version>3.0</version>
+    <license>GNU/GPLv3 http://www.gnu.org/licenses/gpl-3.0.html</license>
+    <languages>
+        <language tag="en-GB">en-GB.plg_content_powrshortcodes.ini</language>
+	</languages>
+    <description>PLG_CONTENT_POWRSHORTCODES_DESCRIPTION</description>
+    <scriptfile>script.php</scriptfile>
+    <files>
+     	<filename>index.html</filename>
+        <filename plugin="powrshortcodes">powrshortcodes.php</filename>
+        <filename>powr_joomla.js</filename>
+	</files>
+</extension>

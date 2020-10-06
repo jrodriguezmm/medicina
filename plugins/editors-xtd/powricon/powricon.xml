@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="plugin" version="2.5" method="upgrade" group="editors-xtd">
+    <name>POWr Icon</name>
+    <author>POWr.io</author>
+    <creationDate>Aug 2015</creationDate>
+    <copyright>Copyright (©) 2016 POWr. All rights reserved.</copyright>
+    <authorEmail>info@powr.io</authorEmail>
+    <authorUrl>https://www.powr.io</authorUrl>
+    <version>1.0</version>
+    <license>GNU/GPLv3 http://www.gnu.org/licenses/gpl-3.0.html</license>
+    <description>Adds an icon to easly add POWr Plugins to any Page or Post right from the Joomla text editor.</description>
+    <scriptfile>script.php</scriptfile>
+    <files>
+     	<filename>index.html</filename>
+        <filename plugin="powricon">powricon.php</filename>
+	</files>
+</extension>
